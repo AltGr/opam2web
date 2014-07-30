@@ -25,16 +25,12 @@ let documentation_pages = [
   "Primer";
   "Quick_Install.md";
   "Basic_Usage.md";
-  "Specifying_Solver_Preferences.md";
   "FAQ.md";
   "";
   "Go Further";
-  "Advanced_Install.md";
   "Advanced_Usage.md";
-  "Developing.md";
-  "";
-  "For Packagers";
-  "Packaging.md"
+  "Packaging.md";
+  "Specifying_Solver_Preferences.md";
 ]
 
 let default_log_filter =
